@@ -13,11 +13,9 @@ I am looking for collaborate on AI/ML projects, internships.
 
 About me:
 
-I am an eager learner
-
-I learned piano (12 years), guitar (2 years), flute (1 year) on my own, try to get into music production as a hobby
-
-I prefer reading physical book rather than digital book
+- I am an eager learner.
+- I learned piano (12 years), guitar (2 years), flute (1 year) on my own, try to get into music production as a hobby
+- I prefer reading physical book rather than digital book
 
 📍 Austin, TX • 📧 wentir102@gmail.com
 <!--
